@@ -38,4 +38,4 @@
 </div>
   <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21b6xtgwhwk2e2fynz6xupiny&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"</>
