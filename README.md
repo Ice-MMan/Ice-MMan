@@ -3,7 +3,7 @@
 - :seedling: I’m currently learning fronted end backend  ...
 - :dancers: I’m looking to collaborate on ...
 - :speech_balloon:  Ask me about  Html,CSS and JavaScript
-- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-kaan-uysal-38590324b//) || fIce-MMan@gmail.com
+- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/mehmet-kaan-uysal-38590324b//)
 - ![](https://komarev.com/ghpvc/?username=Ice-MMan&blue)
 ## :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ice-MMan&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
